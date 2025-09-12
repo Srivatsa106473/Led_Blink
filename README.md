@@ -1,0 +1,1 @@
+This example connects three LEDs with resistors to Arduino digital pins. Each pin is set as OUTPUT using `pinMode()`. We control each LED with `digitalWrite(pin, HIGH/LOW)` to turn them ON or OFF. This shows how to manage multiple LEDs independently using Arduino code.
